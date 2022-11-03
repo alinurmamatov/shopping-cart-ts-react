@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Steve Jobs",
+    "price": 19.99,
+    "imgUrl": "src/assets/jpg/steve-jobs.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The Richest Man in Babylon",
+    "price": 15.99,
+    "imgUrl": "src/assets/jpg/richest-man-in-babylon.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Atomic Habits",
+    "price": 14.99,
+    "imgUrl": "src/assets/jpg/atomic-habits.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Outliers",
+    "price": 13.99,
+    "imgUrl": "src/assets/jpg/outliers.jpg"
+  },
+  {
+    "id": 5,
+    "name": "The 10x Rule",
+    "price": 10.99,
+    "imgUrl": "src/assets/jpg/10x-rule.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Rich Dad, Poor Dad",
+    "price": 10.99,
+    "imgUrl": "src/assets/jpg/rich-dad-poor-dad.jpg"
+  },
+  {
+    "id": 7,
+    "name": "The Psychology of Money",
+    "price": 16.99,
+    "imgUrl": "src/assets/jpg/psychology-of-money.jpg"
+  },
+  {
+    "id": 8,
+    "name": "The Miracle Morning",
+    "price": 12.99,
+    "imgUrl": "src/assets/jpg/miracle-morning.jpg"
+  },
+  {
+    "id": 9,
+    "name": "And nerds do business",
+    "price": 11.99,
+    "imgUrl": "src/assets/jpg/dodo-pizza.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Zero to ONE",
+    "price": 16.99,
+    "imgUrl": "src/assets/jpg/zero-to-one.jpg"
+  },
+  {
+    "id": 11,
+    "name": "How to Get Rich",
+    "price": 11.99,
+    "imgUrl": "src/assets/jpg/how-to-get-rich.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Moonwalking with Einstein",
+    "price": 18.99,
+    "imgUrl": "src/assets/jpg/moonwalking-with-einstein.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Men are from Mars, Women are from Venus",
+    "price": 10.99,
+    "imgUrl": "src/assets/jpg/men-from-mars-women-from-venus.jpg"
+  }
+]
